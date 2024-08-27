@@ -3,7 +3,7 @@
 /*
  * Plugin Name:       Landing Expert
  * Plugin URI:        https://landingexpert.online
- * Description:       This is a Udemy Plus plugin.
+ * Description:       Landing Expert plugin for WordPress
  * Version:           1.0.0
  * Requires at least: 5.9
  * Requires PHP:      8.0
